@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\UWBNetworkingPackage\Scripts\MasterClientLauncher.cs">
+    <Files>
+      <File FileName="Assets\Construct\ConstructionUIScript.cs" Line="38" Column="9" />
+      <File FileName="Assets\Resources\InstructScript.cs" Line="9" Column="15" />
+      <File FileName="Assets\UWBPhotonTransformView.cs" Line="1" Column="1" />
+      <File FileName="Assets\GuiTextDebug.cs" Line="1" Column="1" />
+      <File FileName="Assets\DebugConsole.cs" Line="1" Column="1" />
+      <File FileName="Assets\UWBNetworkingPackage\Scripts\SimpleMeshSerializer.cs" Line="1" Column="1" />
+      <File FileName="Assets\UWBNetworkingPackage\Scripts\SceneSynchronizationManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\UWBNetworkingPackage\Scripts\ObjectManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\UWBNetworkingPackage\Scripts\ASLEventCode.cs" Line="1" Column="1" />
+      <File FileName="Assets\UWBNetworkingPackage\Scripts\AbnormalDirectoryHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets\UWBNetworkingPackage\Scripts\Debug.cs" Line="1" Column="1" />
+      <File FileName="Assets\UWBNetworkingPackage\Scripts\DestroyObjectSynchronizer.cs" Line="1" Column="1" />
+      <File FileName="Assets\UWBNetworkingPackage\Scripts\Launcher.cs" Line="1" Column="1" />
+      <File FileName="Assets\UWBNetworkingPackage\Scripts\MasterClientLauncher.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
